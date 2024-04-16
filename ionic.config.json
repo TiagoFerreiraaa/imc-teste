@@ -1,0 +1,7 @@
+{
+  "name": "imc-teste",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
