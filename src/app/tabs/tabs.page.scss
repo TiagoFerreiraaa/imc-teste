@@ -1,1 +1,11 @@
 
+  
+  ion-tab-button {
+    --color-selected: #006aff;
+    --color: rgba(255, 255, 255, 0.7);
+  
+    &:hover {
+      --color: #fff;
+    }
+  }
+  
